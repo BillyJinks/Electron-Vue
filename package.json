@@ -1,0 +1,16 @@
+{
+  "name": "electron-vue",
+  "version": "0.0.0",
+  "description": "Electron + Vue",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "devDependencies": {
+    "electron": "^4.1.1"
+  },
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
